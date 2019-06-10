@@ -11,7 +11,7 @@ This file shows how to run this python program
 - store de file to be imported with the name `transactions.json` on the current path
 - run the import.py to analyse the json file and create the sequences
 
-###next steps
+next steps of this project
 - create a simple menu to run the program easily
 - create simple tests
 - create functions to search entries  based on sequences 

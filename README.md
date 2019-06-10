@@ -15,6 +15,10 @@ This file shows how to run this python program
 - create a simple menu to run the program easily
 - create simple tests
 - create functions to search entries  based on sequences 
+- change similarity by diff to word recognition and grouping by word
+- on new insertions just  look the sequence by description similarity and remade sequence only for this group, making it faster
+
+
 ## Exercice Explanation
 ### Rules 
 - The solution should be written in Python

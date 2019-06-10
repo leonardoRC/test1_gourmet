@@ -6,7 +6,6 @@ from difflib import SequenceMatcher
 def import_json():
     """
         This code read the json and create transactions on database
-            Test and create unique entries and group similars by diff
     """
     with open('transactions.json') as json_file:
         data = json.load(json_file)
@@ -15,8 +14,9 @@ def import_json():
 
 def look_similars():
     """
-        look all transactions and group by  similar descriptions by diff
-        and returns these groups in a data list
+        looks all transactions and group by  similar descriptions using diff
+        :return:
+           returns groups of similarity in a data list
     """
     query = Transactions.select()
     groups = []
@@ -39,9 +39,9 @@ def look_similars():
 
 def frequency(groups):
     """
-     This part get the groups and aplly rules to detect time recorrence based on frequency
+     This part gets the groups and applies rules to detect time recurrence based on the frequency
     :return:
-     List with all Frequency gruped by
+     List with all Frequency grouped by
     """
 
     p_seq = []
@@ -64,8 +64,10 @@ def frequency(groups):
 
 def sequences(p_seq):
     """
-        #mounting suquences following the rules - All transactions in a set must be at least 4 days apart from each other.
+        mounting sequences following the rules
+        All transactions in a set must be at least 4 days apart from each other.
     :return:
+        returns a list of pre sequences filtered by rules in a list
     """
     for pre in p_seq:
         for pr in pre:
@@ -83,9 +85,10 @@ def sequences(p_seq):
 
 def create_sequences(p_seq):
     """
-        # analyzes the presequence and if it is a block with more than 4 it creates the entries in the databases and appointments in the transitions
-    :param p_seq:
+        analyzes the presequence and if it is a block with more than 4 it creates the entries on the database
+        and appointments in the transitions also remake  if it changed
     :return:
+        returns the list off sequences with all transactions changed
     """
     for pre in p_seq:
         for pr in pre:
@@ -113,7 +116,7 @@ if __name__ == "__main__":
         *it is not necessary for a transaction to be part of a sequence*
     """
     import_json()
-    groups =look_similars()
+    groups = look_similars()
     p_seq = frequency(groups)
     p_seq = sequences(p_seq)
     p_seq = create_sequences(p_seq)

@@ -5,8 +5,8 @@ This tool was created using python 3.5, peewee to create a simple relational dat
 
 ## How to  use
 This file shows how to run this python program
-- create a virtual environment `pip install -r requeriments.txt`
-- install dependences sing the command 
+- create a virtual environment 
+- install dependencies using the command `pip install -r requirements.txt`
 - to create de databases run `models.py`, it will create a datafile Sqlite and create all data tables
 - store de file to be imported with the name `transactions.json` on the current path
 - run the import.py to analyse the json file and create the sequences

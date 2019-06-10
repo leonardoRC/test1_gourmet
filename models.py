@@ -33,11 +33,12 @@ def create_tables():
     db.close()
     db.connect()
     db.create_tables([Sequences,Transactions,])
-    log_models.warning('Tabelas criadas com sucesso')
+    log_models.warning('All tables created')
     db.close()
 
 if __name__ == "__main__":
     """
-    Run this file to create  tables
+    Run this file to create the database and tables
+        This will create a database SQlite file named transactions.db 
     """
     create_tables()

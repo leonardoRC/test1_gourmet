@@ -1,0 +1,2752 @@
+[
+  {
+    "date": "01/01/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 522789.97
+  },
+  {
+    "date": "01/01/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 433307.49
+  },
+  {
+    "date": "01/02/2017",
+    "description": "JUSTWORKS PAYROLL JBZ965",
+    "amount": -270000.0
+  },
+  {
+    "date": "01/02/2017",
+    "description": "MENARD",
+    "amount": -98.5
+  },
+  {
+    "date": "01/02/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.38
+  },
+  {
+    "date": "01/15/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE RUEK215",
+    "amount": -1106.92
+  },
+  {
+    "date": "01/15/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 614748.97
+  },
+  {
+    "date": "01/16/2017",
+    "description": "JUSTWORKS PAYROLL MGV722",
+    "amount": -270000.0
+  },
+  {
+    "date": "01/20/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 8705YV",
+    "amount": -461.37
+  },
+  {
+    "date": "01/24/2017",
+    "description": "HALL-CLARK MEMBERSHIP 86216",
+    "amount": 356.98
+  },
+  {
+    "date": "01/28/2017",
+    "description": "DOLLAR GENERAL*55322",
+    "amount": -1097.96
+  },
+  {
+    "date": "01/29/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 561506.21
+  },
+  {
+    "date": "01/31/2017",
+    "description": "JUSTWORKS PAYROLL 82BU24",
+    "amount": -270000.0
+  },
+  {
+    "date": "01/31/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.48
+  },
+  {
+    "date": "02/08/2017",
+    "description": "PETCO ANIMAL SUPPLIES JSNB063",
+    "amount": -892.28
+  },
+  {
+    "date": "02/12/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 462081.82
+  },
+  {
+    "date": "02/15/2017",
+    "description": "JUSTWORKS PAYROLL 11X164",
+    "amount": -270000.0
+  },
+  {
+    "date": "02/17/2017",
+    "description": "DOLLAR GENERAL*34188",
+    "amount": -1119.35
+  },
+  {
+    "date": "02/20/2017",
+    "description": "DOLLAR GENERAL*20683",
+    "amount": -1087.48
+  },
+  {
+    "date": "02/22/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 56L748",
+    "amount": -409.92
+  },
+  {
+    "date": "02/23/2017",
+    "description": "HALL-CLARK MEMBERSHIP 91365",
+    "amount": -111.63
+  },
+  {
+    "date": "02/26/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 641494.3
+  },
+  {
+    "date": "03/02/2017",
+    "description": "JUSTWORKS PAYROLL 5OSI60",
+    "amount": -270000.0
+  },
+  {
+    "date": "03/02/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -101.67
+  },
+  {
+    "date": "03/02/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 418000.56
+  },
+  {
+    "date": "03/03/2017",
+    "description": "WAKEFERN 10549",
+    "amount": -1277.3
+  },
+  {
+    "date": "03/09/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 387L",
+    "amount": -1345.33
+  },
+  {
+    "date": "03/12/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 609474.56
+  },
+  {
+    "date": "03/14/2017",
+    "description": "DEAN PLC AR UGKZ240834",
+    "amount": 86673.05
+  },
+  {
+    "date": "03/17/2017",
+    "description": "JUSTWORKS PAYROLL 580TXX",
+    "amount": -270000.0
+  },
+  {
+    "date": "03/20/2017",
+    "description": "ALEXANDER LTD XQGH0240815440442",
+    "amount": 601196.53
+  },
+  {
+    "date": "03/22/2017",
+    "description": "WAKEFERN 66394",
+    "amount": -1280.21
+  },
+  {
+    "date": "03/23/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE GEZX0756066",
+    "amount": -1023.43
+  },
+  {
+    "date": "03/23/2017",
+    "description": "HALL-CLARK MEMBERSHIP 25459",
+    "amount": 214.02
+  },
+  {
+    "date": "03/26/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 577334.22
+  },
+  {
+    "date": "04/01/2017",
+    "description": "HALL-CLARK MEMBERSHIP 22947",
+    "amount": 186.82
+  },
+  {
+    "date": "04/01/2017",
+    "description": "JUSTWORKS PAYROLL 258I",
+    "amount": -270000.0
+  },
+  {
+    "date": "04/01/2017",
+    "description": "MENARD",
+    "amount": -98.41
+  },
+  {
+    "date": "04/01/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -99.28
+  },
+  {
+    "date": "04/04/2017",
+    "description": "SANCHEZ-YOUNG--BILLPAY--33458",
+    "amount": -933.79
+  },
+  {
+    "date": "04/07/2017",
+    "description": "PETCO ANIMAL SUPPLIES DUWN7290537789123",
+    "amount": -893.14
+  },
+  {
+    "date": "04/09/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 679376.96
+  },
+  {
+    "date": "04/10/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE AGPX55112",
+    "amount": -815.88
+  },
+  {
+    "date": "04/17/2017",
+    "description": "JUSTWORKS PAYROLL 038XGH",
+    "amount": -270000.0
+  },
+  {
+    "date": "04/19/2017",
+    "description": "ALEXANDER LTD JGVH892178608",
+    "amount": 599621.45
+  },
+  {
+    "date": "04/21/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 712ERL",
+    "amount": -675.8
+  },
+  {
+    "date": "04/22/2017",
+    "description": "FLOYD, LOVE AND MORRISON RECEIVABLES KIMK7259485050949",
+    "amount": 33589.22
+  },
+  {
+    "date": "04/23/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE ITJF329501",
+    "amount": -1085.05
+  },
+  {
+    "date": "04/23/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 618826.22
+  },
+  {
+    "date": "04/30/2017",
+    "description": "HALL-CLARK MEMBERSHIP 71499",
+    "amount": 102.05
+  },
+  {
+    "date": "05/01/2017",
+    "description": "JUSTWORKS PAYROLL 647QL",
+    "amount": -270000.0
+  },
+  {
+    "date": "05/01/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -97.25
+  },
+  {
+    "date": "05/01/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 407040.95
+  },
+  {
+    "date": "05/07/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 565519.81
+  },
+  {
+    "date": "05/08/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE FELQ38108761765",
+    "amount": -1089.26
+  },
+  {
+    "date": "05/16/2017",
+    "description": "JUSTWORKS PAYROLL BDS884",
+    "amount": -270000.0
+  },
+  {
+    "date": "05/17/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 79U749",
+    "amount": -354.25
+  },
+  {
+    "date": "05/18/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT HUS3743",
+    "amount": -1296.28
+  },
+  {
+    "date": "05/18/2017",
+    "description": "WAKEFERN 52879",
+    "amount": -1258.45
+  },
+  {
+    "date": "05/19/2017",
+    "description": "ALEXANDER LTD NJUT1834896",
+    "amount": 729194.0
+  },
+  {
+    "date": "05/20/2017",
+    "description": "GAMESTOP 92777",
+    "amount": -33.69
+  },
+  {
+    "date": "05/21/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT CBY6076",
+    "amount": -538.57
+  },
+  {
+    "date": "05/21/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 646491.7
+  },
+  {
+    "date": "05/22/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE HRNT355319785905",
+    "amount": -1106.68
+  },
+  {
+    "date": "05/25/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--HCSC78587",
+    "amount": 216383.98
+  },
+  {
+    "date": "05/27/2017",
+    "description": "SANCHEZ-YOUNG--BILLPAY--95953",
+    "amount": -716.57
+  },
+  {
+    "date": "05/31/2017",
+    "description": "JUSTWORKS PAYROLL FRN659",
+    "amount": -270000.0
+  },
+  {
+    "date": "05/31/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -99.93
+  },
+  {
+    "date": "06/04/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 545343.43
+  },
+  {
+    "date": "06/08/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--TSUK103992503",
+    "amount": 243230.62
+  },
+  {
+    "date": "06/10/2017",
+    "description": "PETCO ANIMAL SUPPLIES DSHZ984",
+    "amount": -896.69
+  },
+  {
+    "date": "06/12/2017",
+    "description": "PETCO ANIMAL SUPPLIES SSGD439525235290",
+    "amount": -889.87
+  },
+  {
+    "date": "06/15/2017",
+    "description": "JUSTWORKS PAYROLL 774OMX",
+    "amount": -270000.0
+  },
+  {
+    "date": "06/17/2017",
+    "description": "DOLLAR GENERAL*59943",
+    "amount": -1107.69
+  },
+  {
+    "date": "06/18/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 235ZMB",
+    "amount": -583.79
+  },
+  {
+    "date": "06/18/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 629976.54
+  },
+  {
+    "date": "06/19/2017",
+    "description": "SANCHEZ-YOUNG--BILLPAY--89129",
+    "amount": -649.13
+  },
+  {
+    "date": "06/19/2017",
+    "description": "ALEXANDER LTD FCQU1369484133378",
+    "amount": 662101.62
+  },
+  {
+    "date": "06/22/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--LRMT2567039005411",
+    "amount": 183955.27
+  },
+  {
+    "date": "06/23/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT F448WM",
+    "amount": -369.2
+  },
+  {
+    "date": "06/26/2017",
+    "description": "DOLLAR GENERAL*80169",
+    "amount": -1097.27
+  },
+  {
+    "date": "06/27/2017",
+    "description": "DOLLAR GENERAL*47308",
+    "amount": -1096.79
+  },
+  {
+    "date": "06/29/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 827HTA",
+    "amount": -527.29
+  },
+  {
+    "date": "06/29/2017",
+    "description": "PETCO ANIMAL SUPPLIES KYTL48262452",
+    "amount": -896.43
+  },
+  {
+    "date": "06/30/2017",
+    "description": "JUSTWORKS PAYROLL ZYP359",
+    "amount": -270000.0
+  },
+  {
+    "date": "06/30/2017",
+    "description": "MENARD",
+    "amount": -96.2
+  },
+  {
+    "date": "06/30/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -101.1
+  },
+  {
+    "date": "06/30/2017",
+    "description": "WAKEFERN 59344",
+    "amount": -1268.66
+  },
+  {
+    "date": "06/30/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 340860.54
+  },
+  {
+    "date": "07/02/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 584154.64
+  },
+  {
+    "date": "07/06/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 787J",
+    "amount": -1256.71
+  },
+  {
+    "date": "07/06/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--BMKX6134706774404",
+    "amount": 183964.68
+  },
+  {
+    "date": "07/07/2017",
+    "description": "COOPER GROUP*AR*97025",
+    "amount": 480742.55
+  },
+  {
+    "date": "07/11/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT UPS7685",
+    "amount": -1172.59
+  },
+  {
+    "date": "07/14/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT TTR389",
+    "amount": -330.98
+  },
+  {
+    "date": "07/14/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 979IV",
+    "amount": -1218.11
+  },
+  {
+    "date": "07/15/2017",
+    "description": "JUSTWORKS PAYROLL YNM3527",
+    "amount": -270000.0
+  },
+  {
+    "date": "07/16/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 590891.71
+  },
+  {
+    "date": "07/18/2017",
+    "description": "ALEXANDER LTD ERFR7415980087133",
+    "amount": 647307.3
+  },
+  {
+    "date": "07/20/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 262771Q",
+    "amount": -1210.29
+  },
+  {
+    "date": "07/20/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--PPZR8951571266850",
+    "amount": 92957.22
+  },
+  {
+    "date": "07/30/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 502880.39
+  },
+  {
+    "date": "07/31/2017",
+    "description": "JUSTWORKS PAYROLL PMB2956",
+    "amount": -270000.0
+  },
+  {
+    "date": "07/31/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.6
+  },
+  {
+    "date": "08/01/2017",
+    "description": "PETCO ANIMAL SUPPLIES OGJB190",
+    "amount": -887.92
+  },
+  {
+    "date": "08/03/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--NGYK53",
+    "amount": 181276.35
+  },
+  {
+    "date": "08/04/2017",
+    "description": "BOOKER, SANCHEZ AND WOLFE AR 38X8365",
+    "amount": 392409.67
+  },
+  {
+    "date": "08/06/2017",
+    "description": "HALL-CLARK MEMBERSHIP 01477",
+    "amount": 119.74
+  },
+  {
+    "date": "08/12/2017",
+    "description": "DEAN PLC AR DRVG247241244",
+    "amount": 85188.59
+  },
+  {
+    "date": "08/13/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 604900.75
+  },
+  {
+    "date": "08/14/2017",
+    "description": "JUSTWORKS PAYROLL 617XXB",
+    "amount": -270000.0
+  },
+  {
+    "date": "08/17/2017",
+    "description": "ALEXANDER LTD WVHV9348917221308",
+    "amount": 555473.47
+  },
+  {
+    "date": "08/17/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--WUQC2432528345290",
+    "amount": 216391.9
+  },
+  {
+    "date": "08/20/2017",
+    "description": "WAKEFERN 75125",
+    "amount": -1282.24
+  },
+  {
+    "date": "08/23/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 473TVE",
+    "amount": -522.06
+  },
+  {
+    "date": "08/25/2017",
+    "description": "DOLLAR GENERAL*92092",
+    "amount": -1096.95
+  },
+  {
+    "date": "08/27/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 755232.9
+  },
+  {
+    "date": "08/29/2017",
+    "description": "JUSTWORKS PAYROLL 835630M",
+    "amount": -270000.0
+  },
+  {
+    "date": "08/29/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -102.77
+  },
+  {
+    "date": "08/29/2017",
+    "description": "DOLLAR GENERAL*96057",
+    "amount": -1092.02
+  },
+  {
+    "date": "08/29/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 312241.24
+  },
+  {
+    "date": "08/31/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--WHZA6068744673543",
+    "amount": 224739.03
+  },
+  {
+    "date": "09/03/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT CMS8625",
+    "amount": -1357.93
+  },
+  {
+    "date": "09/05/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE TIMW5862297230224",
+    "amount": -905.47
+  },
+  {
+    "date": "09/10/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 592671.53
+  },
+  {
+    "date": "09/13/2017",
+    "description": "JUSTWORKS PAYROLL 422SU",
+    "amount": -270000.0
+  },
+  {
+    "date": "09/14/2017",
+    "description": "SANCHEZ-YOUNG--BILLPAY--35858",
+    "amount": -686.78
+  },
+  {
+    "date": "09/14/2017",
+    "description": "PETCO ANIMAL SUPPLIES DFYF7430953012734",
+    "amount": -897.65
+  },
+  {
+    "date": "09/14/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--VXTU3028014676878",
+    "amount": 251714.0
+  },
+  {
+    "date": "09/16/2017",
+    "description": "ALEXANDER LTD UZBD89361080805",
+    "amount": 595206.68
+  },
+  {
+    "date": "09/18/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE UACN17988",
+    "amount": -1072.02
+  },
+  {
+    "date": "09/20/2017",
+    "description": "HALL-CLARK MEMBERSHIP 81520",
+    "amount": 103.22
+  },
+  {
+    "date": "09/24/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 592761.47
+  },
+  {
+    "date": "09/25/2017",
+    "description": "WAKEFERN 97091",
+    "amount": -1287.05
+  },
+  {
+    "date": "09/28/2017",
+    "description": "JUSTWORKS PAYROLL WMI363",
+    "amount": -270000.0
+  },
+  {
+    "date": "09/28/2017",
+    "description": "MENARD",
+    "amount": -99.7
+  },
+  {
+    "date": "09/28/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -101.23
+  },
+  {
+    "date": "09/28/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--EILZ03",
+    "amount": 238551.36
+  },
+  {
+    "date": "10/08/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 636512.01
+  },
+  {
+    "date": "10/12/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--AOUW6044022866",
+    "amount": 180469.61
+  },
+  {
+    "date": "10/13/2017",
+    "description": "JUSTWORKS PAYROLL 27YJ3",
+    "amount": -270000.0
+  },
+  {
+    "date": "10/15/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT D27HXR",
+    "amount": -1285.16
+  },
+  {
+    "date": "10/16/2017",
+    "description": "ALEXANDER LTD VSSB5074879810833",
+    "amount": 611090.33
+  },
+  {
+    "date": "10/16/2017",
+    "description": "KING, BROWNING AND WARD PAYMT RR2326",
+    "amount": 551218.56
+  },
+  {
+    "date": "10/22/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 582089.23
+  },
+  {
+    "date": "10/26/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--GCIM589141084599",
+    "amount": 175605.24
+  },
+  {
+    "date": "10/28/2017",
+    "description": "JUSTWORKS PAYROLL KCE874",
+    "amount": -270000.0
+  },
+  {
+    "date": "10/28/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -98.77
+  },
+  {
+    "date": "10/28/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 425623.61
+  },
+  {
+    "date": "10/29/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE RIAT0460556724",
+    "amount": -1118.99
+  },
+  {
+    "date": "10/30/2017",
+    "description": "WAKEFERN 31304",
+    "amount": -1266.09
+  },
+  {
+    "date": "10/30/2017",
+    "description": "KING, BROWNING AND WARD PAYMT KSA204",
+    "amount": 708536.86
+  },
+  {
+    "date": "10/31/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT MAI161",
+    "amount": -584.94
+  },
+  {
+    "date": "11/05/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 676658.53
+  },
+  {
+    "date": "11/05/2017",
+    "description": "WILLIAMSON, SERRANO AND DOYL SOW RCC291",
+    "amount": 335963.81
+  },
+  {
+    "date": "11/07/2017",
+    "description": "WAKEFERN 04337",
+    "amount": -1279.69
+  },
+  {
+    "date": "11/09/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE HKWA999279478",
+    "amount": -999.78
+  },
+  {
+    "date": "11/09/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 3WO82",
+    "amount": -588.42
+  },
+  {
+    "date": "11/09/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--AZSG91274",
+    "amount": 180650.7
+  },
+  {
+    "date": "11/13/2017",
+    "description": "JUSTWORKS PAYROLL 6296",
+    "amount": -270000.0
+  },
+  {
+    "date": "11/13/2017",
+    "description": "KING, BROWNING AND WARD PAYMT 12VG12",
+    "amount": 583571.71
+  },
+  {
+    "date": "11/15/2017",
+    "description": "ALEXANDER LTD RDMS3532307025030",
+    "amount": 656281.04
+  },
+  {
+    "date": "11/17/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT PWH0901",
+    "amount": -1051.42
+  },
+  {
+    "date": "11/19/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 543190.35
+  },
+  {
+    "date": "11/20/2017",
+    "description": "PETCO ANIMAL SUPPLIES YOIO1729300608617",
+    "amount": -906.05
+  },
+  {
+    "date": "11/21/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 964ASHN",
+    "amount": -1250.26
+  },
+  {
+    "date": "11/23/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--KDLM6291",
+    "amount": 179368.15
+  },
+  {
+    "date": "11/27/2017",
+    "description": "JUSTWORKS PAYROLL 53POE7",
+    "amount": -270000.0
+  },
+  {
+    "date": "11/27/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -99.59
+  },
+  {
+    "date": "11/27/2017",
+    "description": "KING, BROWNING AND WARD PAYMT 21BH638",
+    "amount": 461523.35
+  },
+  {
+    "date": "11/30/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 458LUP",
+    "amount": -479.27
+  },
+  {
+    "date": "12/03/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 615834.47
+  },
+  {
+    "date": "12/07/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--LRVP0660178766226",
+    "amount": 185713.29
+  },
+  {
+    "date": "12/11/2017",
+    "description": "KING, BROWNING AND WARD PAYMT 844GCN",
+    "amount": 644411.85
+  },
+  {
+    "date": "12/12/2017",
+    "description": "JUSTWORKS PAYROLL 64103R",
+    "amount": -270000.0
+  },
+  {
+    "date": "12/15/2017",
+    "description": "ALEXANDER LTD WTGQ632000771",
+    "amount": 597294.41
+  },
+  {
+    "date": "12/16/2017",
+    "description": "DOLLAR GENERAL*86755",
+    "amount": -1107.01
+  },
+  {
+    "date": "12/16/2017",
+    "description": "JIMENEZ-VANG PAYMT 67584",
+    "amount": 1392658.91
+  },
+  {
+    "date": "12/17/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 568649.64
+  },
+  {
+    "date": "12/21/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--ZHOU39885467",
+    "amount": 189180.43
+  },
+  {
+    "date": "12/24/2017",
+    "description": "POOLE AND SONS*RECEIVABLES*JGKK3375123529514",
+    "amount": 438278.6
+  },
+  {
+    "date": "12/25/2017",
+    "description": "SANCHEZ-YOUNG--BILLPAY--81403",
+    "amount": -908.56
+  },
+  {
+    "date": "12/25/2017",
+    "description": "KING, BROWNING AND WARD PAYMT MYC498",
+    "amount": 585453.31
+  },
+  {
+    "date": "12/27/2017",
+    "description": "JUSTWORKS PAYROLL A890JO",
+    "amount": -270000.0
+  },
+  {
+    "date": "12/27/2017",
+    "description": "MENARD",
+    "amount": -99.97
+  },
+  {
+    "date": "12/27/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -99.58
+  },
+  {
+    "date": "12/27/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 328803.67
+  },
+  {
+    "date": "12/30/2017",
+    "description": "JIMENEZ-VANG PAYMT 38465",
+    "amount": 1466668.61
+  },
+  {
+    "date": "12/31/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 58DFU9",
+    "amount": -342.22
+  },
+  {
+    "date": "12/31/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 609508.86
+  },
+  {
+    "date": "01/01/2018",
+    "description": "MARSHALL LTD YCTM6851100",
+    "amount": 1264660.27
+  },
+  {
+    "date": "01/04/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--XNHJ410",
+    "amount": 188869.7
+  },
+  {
+    "date": "01/08/2018",
+    "description": "KING, BROWNING AND WARD PAYMT GJH957",
+    "amount": 756454.54
+  },
+  {
+    "date": "01/11/2018",
+    "description": "JUSTWORKS PAYROLL 6095600",
+    "amount": -270000.0
+  },
+  {
+    "date": "01/12/2018",
+    "description": "DOLLAR GENERAL*69188",
+    "amount": -1099.12
+  },
+  {
+    "date": "01/13/2018",
+    "description": "JIMENEZ-VANG PAYMT 11208",
+    "amount": 1299194.38
+  },
+  {
+    "date": "01/14/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 641961.56
+  },
+  {
+    "date": "01/15/2018",
+    "description": "ALEXANDER LTD BNFV5476953383",
+    "amount": 745907.62
+  },
+  {
+    "date": "01/18/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--KPFI497941",
+    "amount": 197767.28
+  },
+  {
+    "date": "01/22/2018",
+    "description": "KING, BROWNING AND WARD PAYMT SWL0922",
+    "amount": 640104.41
+  },
+  {
+    "date": "01/25/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 091293",
+    "amount": -611.75
+  },
+  {
+    "date": "01/25/2018",
+    "description": "HALL-CLARK MEMBERSHIP 49491",
+    "amount": 157.95
+  },
+  {
+    "date": "01/26/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 30WZ40",
+    "amount": -582.16
+  },
+  {
+    "date": "01/26/2018",
+    "description": "JUSTWORKS PAYROLL 87U635",
+    "amount": -270000.0
+  },
+  {
+    "date": "01/26/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.61
+  },
+  {
+    "date": "01/27/2018",
+    "description": "JIMENEZ-VANG PAYMT 20387",
+    "amount": 1432334.64
+  },
+  {
+    "date": "01/28/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 684408.35
+  },
+  {
+    "date": "01/30/2018",
+    "description": "HALL-CLARK MEMBERSHIP 79001",
+    "amount": 125.27
+  },
+  {
+    "date": "01/30/2018",
+    "description": "MARSHALL LTD SSKS8606646927319",
+    "amount": 1460110.13
+  },
+  {
+    "date": "02/01/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--UUHH9567207565",
+    "amount": 248418.07
+  },
+  {
+    "date": "02/03/2018",
+    "description": "HALL-CLARK MEMBERSHIP 49151",
+    "amount": 242.74
+  },
+  {
+    "date": "02/05/2018",
+    "description": "MCDONALD'S LFV530",
+    "amount": -32.29
+  },
+  {
+    "date": "02/05/2018",
+    "description": "KING, BROWNING AND WARD PAYMT RWX0476",
+    "amount": 696378.9
+  },
+  {
+    "date": "02/09/2018",
+    "description": "DOLLAR GENERAL*61883",
+    "amount": -1095.39
+  },
+  {
+    "date": "02/10/2018",
+    "description": "JUSTWORKS PAYROLL 68SB10",
+    "amount": -270000.0
+  },
+  {
+    "date": "02/10/2018",
+    "description": "JIMENEZ-VANG PAYMT 33719",
+    "amount": 1444278.57
+  },
+  {
+    "date": "02/11/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 559865.9
+  },
+  {
+    "date": "02/13/2018",
+    "description": "DOLLAR GENERAL*77426",
+    "amount": -1093.83
+  },
+  {
+    "date": "02/13/2018",
+    "description": "ALEXANDER LTD FAPW953410167266",
+    "amount": 684756.36
+  },
+  {
+    "date": "02/15/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--NCIE234",
+    "amount": 209971.52
+  },
+  {
+    "date": "02/18/2018",
+    "description": "PETCO ANIMAL SUPPLIES WSEA2978902537193",
+    "amount": -890.9
+  },
+  {
+    "date": "02/19/2018",
+    "description": "KING, BROWNING AND WARD PAYMT IRT5195",
+    "amount": 554105.41
+  },
+  {
+    "date": "02/24/2018",
+    "description": "JIMENEZ-VANG PAYMT 09204",
+    "amount": 1341161.79
+  },
+  {
+    "date": "02/25/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE VGUX3237368595454",
+    "amount": -935.01
+  },
+  {
+    "date": "02/25/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 574658.81
+  },
+  {
+    "date": "02/25/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 347731.86
+  },
+  {
+    "date": "02/26/2018",
+    "description": "JUSTWORKS PAYROLL 4P697",
+    "amount": -270000.0
+  },
+  {
+    "date": "02/26/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.15
+  },
+  {
+    "date": "02/27/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE UFHX6228031288626",
+    "amount": -858.83
+  },
+  {
+    "date": "03/01/2018",
+    "description": "HALL-CLARK MEMBERSHIP 06671",
+    "amount": 50.26
+  },
+  {
+    "date": "03/01/2018",
+    "description": "MARSHALL LTD MLBK89406056673",
+    "amount": 1376840.73
+  },
+  {
+    "date": "03/01/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--BSIZ83169",
+    "amount": 183403.24
+  },
+  {
+    "date": "03/04/2018",
+    "description": "PETCO ANIMAL SUPPLIES TGRC98918",
+    "amount": -881.0
+  },
+  {
+    "date": "03/05/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 989IZO",
+    "amount": 644953.14
+  },
+  {
+    "date": "03/06/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 8WY20",
+    "amount": -449.35
+  },
+  {
+    "date": "03/07/2018",
+    "description": "HOWARD, ROMERO AND SCHWARTZ CREDIT 888IDS",
+    "amount": 270732.4
+  },
+  {
+    "date": "03/10/2018",
+    "description": "JIMENEZ-VANG PAYMT 38251",
+    "amount": 1362704.07
+  },
+  {
+    "date": "03/11/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 525237.16
+  },
+  {
+    "date": "03/12/2018",
+    "description": "JUSTWORKS PAYROLL AZT6258",
+    "amount": -270000.0
+  },
+  {
+    "date": "03/14/2018",
+    "description": "DOLLAR GENERAL*86934",
+    "amount": -1103.54
+  },
+  {
+    "date": "03/15/2018",
+    "description": "ALEXANDER LTD HQKU16",
+    "amount": 671571.71
+  },
+  {
+    "date": "03/15/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--YTKQ3081251620683",
+    "amount": 212227.19
+  },
+  {
+    "date": "03/19/2018",
+    "description": "HALL-CLARK MEMBERSHIP 75788",
+    "amount": 125.24
+  },
+  {
+    "date": "03/19/2018",
+    "description": "KING, BROWNING AND WARD PAYMT XXG291",
+    "amount": 602644.46
+  },
+  {
+    "date": "03/21/2018",
+    "description": "GAMESTOP 77158",
+    "amount": -19.76
+  },
+  {
+    "date": "03/23/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE EBUU23317438357",
+    "amount": -1087.18
+  },
+  {
+    "date": "03/24/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE PUPD43",
+    "amount": -932.55
+  },
+  {
+    "date": "03/24/2018",
+    "description": "JIMENEZ-VANG PAYMT 40383",
+    "amount": 1324338.96
+  },
+  {
+    "date": "03/25/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 667916.61
+  },
+  {
+    "date": "03/27/2018",
+    "description": "JUSTWORKS PAYROLL JYL943",
+    "amount": -270000.0
+  },
+  {
+    "date": "03/27/2018",
+    "description": "MENARD",
+    "amount": -99.25
+  },
+  {
+    "date": "03/27/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -94.18
+  },
+  {
+    "date": "03/29/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--FSJE750744545424",
+    "amount": 186534.16
+  },
+  {
+    "date": "03/31/2018",
+    "description": "MARSHALL LTD CSWD144823738552",
+    "amount": 1359971.86
+  },
+  {
+    "date": "04/02/2018",
+    "description": "KING, BROWNING AND WARD PAYMT MUJ812",
+    "amount": 654568.07
+  },
+  {
+    "date": "04/07/2018",
+    "description": "JIMENEZ-VANG PAYMT 66768",
+    "amount": 1280764.41
+  },
+  {
+    "date": "04/08/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 664552.0
+  },
+  {
+    "date": "04/11/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE XYNY017550",
+    "amount": -979.73
+  },
+  {
+    "date": "04/11/2018",
+    "description": "JUSTWORKS PAYROLL 666840W",
+    "amount": -270000.0
+  },
+  {
+    "date": "04/12/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--RGPJ1134849907394",
+    "amount": 212809.98
+  },
+  {
+    "date": "04/14/2018",
+    "description": "ALEXANDER LTD DFZZ5299407732422",
+    "amount": 641667.61
+  },
+  {
+    "date": "04/16/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 617XHH",
+    "amount": 671150.41
+  },
+  {
+    "date": "04/18/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT KA7U7C",
+    "amount": -1263.99
+  },
+  {
+    "date": "04/19/2018",
+    "description": "WAKEFERN 63752",
+    "amount": -1267.22
+  },
+  {
+    "date": "04/20/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT T8943W",
+    "amount": -1252.14
+  },
+  {
+    "date": "04/21/2018",
+    "description": "JIMENEZ-VANG PAYMT 33186",
+    "amount": 1444851.52
+  },
+  {
+    "date": "04/22/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 653520.91
+  },
+  {
+    "date": "04/26/2018",
+    "description": "JUSTWORKS PAYROLL 619JZYO",
+    "amount": -270000.0
+  },
+  {
+    "date": "04/26/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -99.8
+  },
+  {
+    "date": "04/26/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 392280.56
+  },
+  {
+    "date": "04/26/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--YUNZ435930032",
+    "amount": 179335.2
+  },
+  {
+    "date": "04/28/2018",
+    "description": "WAKEFERN 52797",
+    "amount": -1260.59
+  },
+  {
+    "date": "04/28/2018",
+    "description": "DOLLAR GENERAL*85698",
+    "amount": -1110.47
+  },
+  {
+    "date": "04/30/2018",
+    "description": "MARSHALL LTD BEIT609044073107",
+    "amount": 1391842.55
+  },
+  {
+    "date": "04/30/2018",
+    "description": "KING, BROWNING AND WARD PAYMT EA3793",
+    "amount": 609565.82
+  },
+  {
+    "date": "05/01/2018",
+    "description": "HALL-CLARK MEMBERSHIP 04003",
+    "amount": 210.6
+  },
+  {
+    "date": "05/02/2018",
+    "description": "PETSMART--00589",
+    "amount": -35.6
+  },
+  {
+    "date": "05/05/2018",
+    "description": "SANCHEZ-YOUNG--BILLPAY--31963",
+    "amount": -804.35
+  },
+  {
+    "date": "05/05/2018",
+    "description": "JIMENEZ-VANG PAYMT 86977",
+    "amount": 1314090.9
+  },
+  {
+    "date": "05/06/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 566874.02
+  },
+  {
+    "date": "05/07/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 7O54877",
+    "amount": -1319.0
+  },
+  {
+    "date": "05/07/2018",
+    "description": "WAKEFERN 02778",
+    "amount": -1269.01
+  },
+  {
+    "date": "05/10/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--IFUO36586065030",
+    "amount": 205529.28
+  },
+  {
+    "date": "05/11/2018",
+    "description": "HALL-CLARK MEMBERSHIP 98982",
+    "amount": 212.11
+  },
+  {
+    "date": "05/11/2018",
+    "description": "JUSTWORKS PAYROLL 6518",
+    "amount": -270000.0
+  },
+  {
+    "date": "05/14/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE DMEU681258",
+    "amount": -874.49
+  },
+  {
+    "date": "05/14/2018",
+    "description": "PETCO ANIMAL SUPPLIES LTDT1169325748918",
+    "amount": -908.18
+  },
+  {
+    "date": "05/14/2018",
+    "description": "ALEXANDER LTD LTVS7349387858396",
+    "amount": 671945.29
+  },
+  {
+    "date": "05/14/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 5YEM30",
+    "amount": 609646.23
+  },
+  {
+    "date": "05/19/2018",
+    "description": "JIMENEZ-VANG PAYMT 95608",
+    "amount": 1400185.54
+  },
+  {
+    "date": "05/20/2018",
+    "description": "PETCO ANIMAL SUPPLIES PZNH5711587427509",
+    "amount": -892.47
+  },
+  {
+    "date": "05/20/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 576264.12
+  },
+  {
+    "date": "05/24/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--MYJQ33599017",
+    "amount": 179217.14
+  },
+  {
+    "date": "05/26/2018",
+    "description": "JUSTWORKS PAYROLL 98EBX8",
+    "amount": -270000.0
+  },
+  {
+    "date": "05/26/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -99.69
+  },
+  {
+    "date": "05/26/2018",
+    "description": "DOLLAR GENERAL*02002",
+    "amount": -1102.32
+  },
+  {
+    "date": "05/28/2018",
+    "description": "PETCO ANIMAL SUPPLIES ZPSL878391846",
+    "amount": -901.68
+  },
+  {
+    "date": "05/28/2018",
+    "description": "KING, BROWNING AND WARD PAYMT XOJ2098",
+    "amount": 571922.49
+  },
+  {
+    "date": "05/30/2018",
+    "description": "MARSHALL LTD CYPO22",
+    "amount": 1413529.97
+  },
+  {
+    "date": "06/02/2018",
+    "description": "HALL-CLARK MEMBERSHIP 38547",
+    "amount": 89.05
+  },
+  {
+    "date": "06/02/2018",
+    "description": "JIMENEZ-VANG PAYMT 73318",
+    "amount": 1388006.14
+  },
+  {
+    "date": "06/03/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 598423.42
+  },
+  {
+    "date": "06/04/2018",
+    "description": "HALL-CLARK MEMBERSHIP 46999",
+    "amount": 148.71
+  },
+  {
+    "date": "06/06/2018",
+    "description": "MCDONALD'S MCR535",
+    "amount": -18.87
+  },
+  {
+    "date": "06/07/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--HKRI94",
+    "amount": 218073.75
+  },
+  {
+    "date": "06/08/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 689488",
+    "amount": -679.76
+  },
+  {
+    "date": "06/11/2018",
+    "description": "JUSTWORKS PAYROLL HZW7801",
+    "amount": -270000.0
+  },
+  {
+    "date": "06/11/2018",
+    "description": "KING, BROWNING AND WARD PAYMT XRO263",
+    "amount": 611202.18
+  },
+  {
+    "date": "06/13/2018",
+    "description": "ALEXANDER LTD NFLT8140664491016",
+    "amount": 607271.23
+  },
+  {
+    "date": "06/14/2018",
+    "description": "DOLLAR GENERAL*72905",
+    "amount": -1093.2
+  },
+  {
+    "date": "06/16/2018",
+    "description": "JIMENEZ-VANG PAYMT 65031",
+    "amount": 1328640.1
+  },
+  {
+    "date": "06/17/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT O5497R",
+    "amount": -1254.91
+  },
+  {
+    "date": "06/17/2018",
+    "description": "PETCO ANIMAL SUPPLIES QCMA87693514977",
+    "amount": -877.72
+  },
+  {
+    "date": "06/17/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 608392.29
+  },
+  {
+    "date": "06/21/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--TEQV5729226",
+    "amount": 51288.28
+  },
+  {
+    "date": "06/25/2018",
+    "description": "JUSTWORKS PAYROLL YI59133",
+    "amount": -270000.0
+  },
+  {
+    "date": "06/25/2018",
+    "description": "MENARD",
+    "amount": -96.15
+  },
+  {
+    "date": "06/25/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -97.44
+  },
+  {
+    "date": "06/25/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 267945.14
+  },
+  {
+    "date": "06/25/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 4CJ4388",
+    "amount": 613150.93
+  },
+  {
+    "date": "06/28/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 191767",
+    "amount": -1204.04
+  },
+  {
+    "date": "06/28/2018",
+    "description": "HOLT GROUP RECEIVABLES QJIE360598",
+    "amount": 84622.26
+  },
+  {
+    "date": "06/29/2018",
+    "description": "MARSHALL LTD MPRL5020489594",
+    "amount": 1369957.36
+  },
+  {
+    "date": "06/30/2018",
+    "description": "JIMENEZ-VANG PAYMT 19169",
+    "amount": 1413193.12
+  },
+  {
+    "date": "07/01/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 710482.3
+  },
+  {
+    "date": "07/04/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT CBA117",
+    "amount": -1298.26
+  },
+  {
+    "date": "07/05/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--MPZE600029081355",
+    "amount": 216458.33
+  },
+  {
+    "date": "07/09/2018",
+    "description": "KING, BROWNING AND WARD PAYMT YEH088",
+    "amount": 688776.19
+  },
+  {
+    "date": "07/10/2018",
+    "description": "JUSTWORKS PAYROLL 10H1023",
+    "amount": -270000.0
+  },
+  {
+    "date": "07/13/2018",
+    "description": "WAKEFERN 69635",
+    "amount": -1279.66
+  },
+  {
+    "date": "07/13/2018",
+    "description": "DOLLAR GENERAL*20467",
+    "amount": -1116.78
+  },
+  {
+    "date": "07/13/2018",
+    "description": "ALEXANDER LTD MGPJ068096",
+    "amount": 753845.9
+  },
+  {
+    "date": "07/14/2018",
+    "description": "JIMENEZ-VANG PAYMT 89183",
+    "amount": 1413407.49
+  },
+  {
+    "date": "07/15/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 554690.45
+  },
+  {
+    "date": "07/19/2018",
+    "description": "WAKEFERN 44050",
+    "amount": -1273.06
+  },
+  {
+    "date": "07/19/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--RBHS4312490895024",
+    "amount": 184484.76
+  },
+  {
+    "date": "07/21/2018",
+    "description": "PETCO ANIMAL SUPPLIES SRVP56710",
+    "amount": -897.12
+  },
+  {
+    "date": "07/23/2018",
+    "description": "KING, BROWNING AND WARD PAYMT O569639",
+    "amount": 633185.98
+  },
+  {
+    "date": "07/25/2018",
+    "description": "JUSTWORKS PAYROLL D848538",
+    "amount": -270000.0
+  },
+  {
+    "date": "07/25/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -101.09
+  },
+  {
+    "date": "07/28/2018",
+    "description": "JIMENEZ-VANG PAYMT 10862",
+    "amount": 1283035.02
+  },
+  {
+    "date": "07/29/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 541617.53
+  },
+  {
+    "date": "07/30/2018",
+    "description": "MARSHALL LTD HRWG09931972245",
+    "amount": 1363840.39
+  },
+  {
+    "date": "07/31/2018",
+    "description": "WAKEFERN 40707",
+    "amount": -1295.89
+  },
+  {
+    "date": "08/01/2018",
+    "description": "PETCO ANIMAL SUPPLIES KSBL2425193",
+    "amount": -858.15
+  },
+  {
+    "date": "08/02/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--KZQQ9185751626405",
+    "amount": 237836.46
+  },
+  {
+    "date": "08/06/2018",
+    "description": "KING, BROWNING AND WARD PAYMT IT43904",
+    "amount": 573041.83
+  },
+  {
+    "date": "08/08/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT ZZJ586",
+    "amount": -958.44
+  },
+  {
+    "date": "08/09/2018",
+    "description": "JUSTWORKS PAYROLL MSJ668",
+    "amount": -270000.0
+  },
+  {
+    "date": "08/11/2018",
+    "description": "JIMENEZ-VANG PAYMT 09760",
+    "amount": 1432774.95
+  },
+  {
+    "date": "08/12/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 614251.45
+  },
+  {
+    "date": "08/13/2018",
+    "description": "ALEXANDER LTD QENZ20911498",
+    "amount": 708609.33
+  },
+  {
+    "date": "08/16/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--YCCK44",
+    "amount": 190922.44
+  },
+  {
+    "date": "08/20/2018",
+    "description": "KING, BROWNING AND WARD PAYMT HYB867",
+    "amount": 748281.25
+  },
+  {
+    "date": "08/24/2018",
+    "description": "JUSTWORKS PAYROLL 486KGL",
+    "amount": -270000.0
+  },
+  {
+    "date": "08/24/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.71
+  },
+  {
+    "date": "08/24/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 296559.04
+  },
+  {
+    "date": "08/25/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE DNUO7560399709801",
+    "amount": -1022.48
+  },
+  {
+    "date": "08/25/2018",
+    "description": "JIMENEZ-VANG PAYMT 54583",
+    "amount": 1388063.19
+  },
+  {
+    "date": "08/26/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 673200.45
+  },
+  {
+    "date": "08/28/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 6CNB91",
+    "amount": -1446.03
+  },
+  {
+    "date": "08/28/2018",
+    "description": "MARSHALL LTD BYMK98345252",
+    "amount": 1536773.83
+  },
+  {
+    "date": "08/30/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--IKBT3848",
+    "amount": 189858.74
+  },
+  {
+    "date": "09/01/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE UURQ415885427333",
+    "amount": -1163.99
+  },
+  {
+    "date": "09/03/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 8JOW01",
+    "amount": 606263.24
+  },
+  {
+    "date": "09/04/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 0LR4487",
+    "amount": -441.26
+  },
+  {
+    "date": "09/08/2018",
+    "description": "JUSTWORKS PAYROLL 0HG9685",
+    "amount": -270000.0
+  },
+  {
+    "date": "09/08/2018",
+    "description": "JIMENEZ-VANG PAYMT 67250",
+    "amount": 1378215.3
+  },
+  {
+    "date": "09/09/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 593163.69
+  },
+  {
+    "date": "09/11/2018",
+    "description": "ALEXANDER LTD DJRS4257",
+    "amount": 673300.79
+  },
+  {
+    "date": "09/12/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 151VIZ",
+    "amount": -1103.82
+  },
+  {
+    "date": "09/13/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--INOY916",
+    "amount": 77521.48
+  },
+  {
+    "date": "09/17/2018",
+    "description": "WAKEFERN 73564",
+    "amount": -1290.78
+  },
+  {
+    "date": "09/17/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 4D836",
+    "amount": 656599.21
+  },
+  {
+    "date": "09/18/2018",
+    "description": "WAKEFERN 29520",
+    "amount": -1286.01
+  },
+  {
+    "date": "09/21/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE ZJWP3539395102609",
+    "amount": -1137.09
+  },
+  {
+    "date": "09/22/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE RFPN7495302738808",
+    "amount": -1044.32
+  },
+  {
+    "date": "09/22/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 795ZPZ",
+    "amount": -476.53
+  },
+  {
+    "date": "09/22/2018",
+    "description": "JIMENEZ-VANG PAYMT 13187",
+    "amount": 1359368.92
+  },
+  {
+    "date": "09/23/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 727869.29
+  },
+  {
+    "date": "09/24/2018",
+    "description": "JUSTWORKS PAYROLL WOD241",
+    "amount": -270000.0
+  },
+  {
+    "date": "09/24/2018",
+    "description": "MENARD",
+    "amount": -95.82
+  },
+  {
+    "date": "09/24/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -101.75
+  },
+  {
+    "date": "09/25/2018",
+    "description": "WAKEFERN 73760",
+    "amount": -1271.55
+  },
+  {
+    "date": "09/27/2018",
+    "description": "MARSHALL LTD IDJA620537669981",
+    "amount": 1438664.95
+  },
+  {
+    "date": "09/27/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--ZYNQ404800090012",
+    "amount": 39432.5
+  },
+  {
+    "date": "10/01/2018",
+    "description": "KING, BROWNING AND WARD PAYMT JAO510",
+    "amount": 483265.92
+  },
+  {
+    "date": "10/06/2018",
+    "description": "JIMENEZ-VANG PAYMT 76452",
+    "amount": 1511290.97
+  },
+  {
+    "date": "10/07/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 589937.27
+  },
+  {
+    "date": "10/08/2018",
+    "description": "JUSTWORKS PAYROLL QFU798",
+    "amount": -270000.0
+  },
+  {
+    "date": "10/08/2018",
+    "description": "DOLLAR GENERAL*87874",
+    "amount": -1088.17
+  },
+  {
+    "date": "10/10/2018",
+    "description": "WAKEFERN 75296",
+    "amount": -1278.44
+  },
+  {
+    "date": "10/11/2018",
+    "description": "ALEXANDER LTD OZWP2647992643069",
+    "amount": 612804.82
+  },
+  {
+    "date": "10/11/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--PGOB365142",
+    "amount": 184491.9
+  },
+  {
+    "date": "10/12/2018",
+    "description": "SANCHEZ-YOUNG--BILLPAY--98484",
+    "amount": -1016.09
+  },
+  {
+    "date": "10/15/2018",
+    "description": "KING, BROWNING AND WARD PAYMT BH7988",
+    "amount": 613022.4
+  },
+  {
+    "date": "10/20/2018",
+    "description": "JIMENEZ-VANG PAYMT 54015",
+    "amount": 1408829.04
+  },
+  {
+    "date": "10/21/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 575998.47
+  },
+  {
+    "date": "10/23/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT IC56526",
+    "amount": -666.87
+  },
+  {
+    "date": "10/23/2018",
+    "description": "SANCHEZ-YOUNG--BILLPAY--47346",
+    "amount": -986.69
+  },
+  {
+    "date": "10/23/2018",
+    "description": "JUSTWORKS PAYROLL GIE396",
+    "amount": -270000.0
+  },
+  {
+    "date": "10/23/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -101.88
+  },
+  {
+    "date": "10/23/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 461012.51
+  },
+  {
+    "date": "10/25/2018",
+    "description": "HALL-CLARK MEMBERSHIP 76934",
+    "amount": 147.34
+  },
+  {
+    "date": "10/25/2018",
+    "description": "DOLLAR GENERAL*28884",
+    "amount": -1115.23
+  },
+  {
+    "date": "10/25/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--ELNS62885400514",
+    "amount": 241130.68
+  },
+  {
+    "date": "10/27/2018",
+    "description": "MARSHALL LTD CWHA20096976023",
+    "amount": 1528955.41
+  },
+  {
+    "date": "10/29/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 3MXS30",
+    "amount": -603.68
+  },
+  {
+    "date": "10/29/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 2XJ22",
+    "amount": -1196.52
+  },
+  {
+    "date": "10/29/2018",
+    "description": "KING, BROWNING AND WARD PAYMT QBZ175",
+    "amount": 650023.8
+  },
+  {
+    "date": "11/03/2018",
+    "description": "JIMENEZ-VANG PAYMT 53386",
+    "amount": 1404728.92
+  },
+  {
+    "date": "11/04/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 559040.5
+  },
+  {
+    "date": "11/07/2018",
+    "description": "JUSTWORKS PAYROLL CGN906",
+    "amount": -270000.0
+  },
+  {
+    "date": "11/08/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--XSDF8068451859542",
+    "amount": 239210.38
+  },
+  {
+    "date": "11/10/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT Z158VD",
+    "amount": -480.4
+  },
+  {
+    "date": "11/10/2018",
+    "description": "ALEXANDER LTD XNCQ5549935",
+    "amount": 675354.79
+  },
+  {
+    "date": "11/11/2018",
+    "description": "DOLLAR GENERAL*78719",
+    "amount": -1113.76
+  },
+  {
+    "date": "11/12/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 92545S",
+    "amount": 622728.08
+  },
+  {
+    "date": "11/16/2018",
+    "description": "DOLLAR GENERAL*55526",
+    "amount": -1100.28
+  },
+  {
+    "date": "11/17/2018",
+    "description": "JIMENEZ-VANG PAYMT 05902",
+    "amount": 1444497.13
+  },
+  {
+    "date": "11/18/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 513939.46
+  },
+  {
+    "date": "11/22/2018",
+    "description": "JUSTWORKS PAYROLL MEF045",
+    "amount": -270000.0
+  },
+  {
+    "date": "11/22/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -102.52
+  },
+  {
+    "date": "11/22/2018",
+    "description": "WAKEFERN 52703",
+    "amount": -1265.23
+  },
+  {
+    "date": "11/22/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--XBTU06928768596",
+    "amount": 184194.16
+  },
+  {
+    "date": "11/26/2018",
+    "description": "MARSHALL LTD ETDR1429175080563",
+    "amount": 1523864.58
+  },
+  {
+    "date": "11/26/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 480470L",
+    "amount": 607246.21
+  },
+  {
+    "date": "12/01/2018",
+    "description": "JIMENEZ-VANG PAYMT 96677",
+    "amount": 1488039.71
+  },
+  {
+    "date": "12/01/2018",
+    "description": "BOOKER, SANCHEZ AND WOLFE AR 27OT73",
+    "amount": 434328.66
+  },
+  {
+    "date": "12/02/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 724779.82
+  },
+  {
+    "date": "12/03/2018",
+    "description": "HALL-CLARK MEMBERSHIP 82468",
+    "amount": 193.77
+  },
+  {
+    "date": "12/06/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--PZAE34",
+    "amount": 22304.93
+  },
+  {
+    "date": "12/07/2018",
+    "description": "JUSTWORKS PAYROLL 988LVXH",
+    "amount": -270000.0
+  },
+  {
+    "date": "12/09/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 908RXD",
+    "amount": -1282.0
+  },
+  {
+    "date": "12/10/2018",
+    "description": "ALEXANDER LTD XAOJ0102701",
+    "amount": 699409.05
+  },
+  {
+    "date": "12/10/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 91AQ19",
+    "amount": 673090.75
+  },
+  {
+    "date": "12/11/2018",
+    "description": "SANCHEZ-YOUNG--BILLPAY--62664",
+    "amount": -763.5
+  },
+  {
+    "date": "12/12/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 49OE20",
+    "amount": -1155.33
+  },
+  {
+    "date": "12/15/2018",
+    "description": "JIMENEZ-VANG PAYMT 10527",
+    "amount": 1286108.6
+  },
+  {
+    "date": "12/16/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 578151.83
+  },
+  {
+    "date": "12/18/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 727KFD",
+    "amount": -1108.77
+  },
+  {
+    "date": "12/19/2018",
+    "description": "DOLLAR GENERAL*24640",
+    "amount": -1093.05
+  },
+  {
+    "date": "12/20/2018",
+    "description": "PETCO ANIMAL SUPPLIES VGCQ147363",
+    "amount": -886.17
+  },
+  {
+    "date": "12/20/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--UDJY221021577494",
+    "amount": 61698.94
+  },
+  {
+    "date": "12/22/2018",
+    "description": "JUSTWORKS PAYROLL 630YZZ",
+    "amount": -270000.0
+  },
+  {
+    "date": "12/22/2018",
+    "description": "MENARD",
+    "amount": -100.69
+  },
+  {
+    "date": "12/22/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.01
+  },
+  {
+    "date": "12/22/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 314343.79
+  },
+  {
+    "date": "12/24/2018",
+    "description": "KING, BROWNING AND WARD PAYMT ZYL206",
+    "amount": 598296.73
+  },
+  {
+    "date": "12/25/2018",
+    "description": "SANCHEZ-YOUNG--BILLPAY--55216",
+    "amount": -733.94
+  },
+  {
+    "date": "12/25/2018",
+    "description": "DOLLAR GENERAL*08833",
+    "amount": -1117.45
+  },
+  {
+    "date": "12/26/2018",
+    "description": "MARSHALL LTD XEUY8235221765484",
+    "amount": 1456052.09
+  },
+  {
+    "date": "12/27/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 711019",
+    "amount": -646.39
+  },
+  {
+    "date": "12/29/2018",
+    "description": "JIMENEZ-VANG PAYMT 40545",
+    "amount": 1330097.97
+  },
+  {
+    "date": "12/30/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 574941.93
+  },
+  {
+    "date": "01/02/2019",
+    "description": "DOLLAR GENERAL*72408",
+    "amount": -1117.42
+  },
+  {
+    "date": "01/03/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--ZUSO78962049",
+    "amount": 214421.17
+  },
+  {
+    "date": "01/07/2019",
+    "description": "JUSTWORKS PAYROLL FGL565",
+    "amount": -270000.0
+  },
+  {
+    "date": "01/07/2019",
+    "description": "WAKEFERN 65342",
+    "amount": -1265.52
+  },
+  {
+    "date": "01/07/2019",
+    "description": "KING, BROWNING AND WARD PAYMT JSK9739",
+    "amount": 613133.51
+  },
+  {
+    "date": "01/09/2019",
+    "description": "ALEXANDER LTD NRIL946776",
+    "amount": 710077.48
+  },
+  {
+    "date": "01/10/2019",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT DGV7246",
+    "amount": -464.83
+  },
+  {
+    "date": "01/10/2019",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 8IDS028",
+    "amount": -1375.07
+  },
+  {
+    "date": "01/12/2019",
+    "description": "JIMENEZ-VANG PAYMT 50900",
+    "amount": 1357173.87
+  },
+  {
+    "date": "01/13/2019",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 610872.23
+  },
+  {
+    "date": "01/14/2019",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT HIB3414",
+    "amount": -405.68
+  },
+  {
+    "date": "01/14/2019",
+    "description": "SANCHEZ-YOUNG--BILLPAY--74393",
+    "amount": -1028.31
+  },
+  {
+    "date": "01/17/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--HMUW570833865",
+    "amount": 177933.48
+  },
+  {
+    "date": "01/18/2019",
+    "description": "WEGMANS FOOD MARKET 70312",
+    "amount": -24.18
+  },
+  {
+    "date": "01/20/2019",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT MYC187",
+    "amount": -516.93
+  },
+  {
+    "date": "01/20/2019",
+    "description": "YUM! BRANDS 2D6717R",
+    "amount": -28.78
+  },
+  {
+    "date": "01/21/2019",
+    "description": "JUSTWORKS PAYROLL IO6D0B",
+    "amount": -270000.0
+  },
+  {
+    "date": "01/21/2019",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.58
+  },
+  {
+    "date": "01/21/2019",
+    "description": "KING, BROWNING AND WARD PAYMT HHGY68",
+    "amount": 610797.57
+  },
+  {
+    "date": "01/25/2019",
+    "description": "MARSHALL LTD UGXD7031812025989",
+    "amount": 1443507.05
+  },
+  {
+    "date": "01/26/2019",
+    "description": "JIMENEZ-VANG PAYMT 28563",
+    "amount": 1464719.79
+  },
+  {
+    "date": "01/27/2019",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 609499.37
+  },
+  {
+    "date": "01/31/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--EGND6564682",
+    "amount": 192520.77
+  },
+  {
+    "date": "02/04/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 061OUZ",
+    "amount": 600627.78
+  },
+  {
+    "date": "02/05/2019",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT F437BT",
+    "amount": -539.31
+  },
+  {
+    "date": "02/05/2019",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 2I2820",
+    "amount": -1311.29
+  },
+  {
+    "date": "02/05/2019",
+    "description": "JUSTWORKS PAYROLL ZZW9984",
+    "amount": -270000.0
+  },
+  {
+    "date": "02/05/2019",
+    "description": "WAKEFERN 12745",
+    "amount": -1264.47
+  },
+  {
+    "date": "02/08/2019",
+    "description": "ALEXANDER LTD PMRS4915",
+    "amount": 639877.12
+  },
+  {
+    "date": "02/09/2019",
+    "description": "JIMENEZ-VANG PAYMT 41097",
+    "amount": 1373158.88
+  },
+  {
+    "date": "02/10/2019",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 662899.2
+  },
+  {
+    "date": "02/14/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--URVJ17468996604",
+    "amount": 194637.19
+  },
+  {
+    "date": "02/18/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 054IQE",
+    "amount": 630911.06
+  },
+  {
+    "date": "02/19/2019",
+    "description": "WAKEFERN 50222",
+    "amount": -1289.25
+  },
+  {
+    "date": "02/20/2019",
+    "description": "JUSTWORKS PAYROLL KMP7696",
+    "amount": -270000.0
+  },
+  {
+    "date": "02/20/2019",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.56
+  },
+  {
+    "date": "02/20/2019",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 317486.39
+  },
+  {
+    "date": "02/23/2019",
+    "description": "JIMENEZ-VANG PAYMT 46651",
+    "amount": 1479094.2
+  },
+  {
+    "date": "02/24/2019",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 610972.19
+  },
+  {
+    "date": "02/25/2019",
+    "description": "PETCO ANIMAL SUPPLIES DOYX50510634283",
+    "amount": -880.49
+  },
+  {
+    "date": "02/25/2019",
+    "description": "MARSHALL LTD AARA9853654844595",
+    "amount": 1447552.16
+  },
+  {
+    "date": "02/28/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--SPIW068",
+    "amount": 211163.34
+  },
+  {
+    "date": "03/04/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 9V497",
+    "amount": 635762.2
+  },
+  {
+    "date": "03/07/2019",
+    "description": "JUSTWORKS PAYROLL OSZ505",
+    "amount": -270000.0
+  },
+  {
+    "date": "03/09/2019",
+    "description": "JIMENEZ-VANG PAYMT 74006",
+    "amount": 1416660.78
+  },
+  {
+    "date": "03/10/2019",
+    "description": "PETCO ANIMAL SUPPLIES AJEJ493508",
+    "amount": -887.39
+  },
+  {
+    "date": "03/10/2019",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 697979.33
+  },
+  {
+    "date": "03/11/2019",
+    "description": "ALEXANDER LTD ARSB8697",
+    "amount": 721063.94
+  },
+  {
+    "date": "03/14/2019",
+    "description": "DOLLAR GENERAL*06840",
+    "amount": -1118.94
+  },
+  {
+    "date": "03/14/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--DBSL000",
+    "amount": 230910.38
+  },
+  {
+    "date": "03/17/2019",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 993CPK",
+    "amount": -1021.23
+  },
+  {
+    "date": "03/17/2019",
+    "description": "PETCO ANIMAL SUPPLIES GFMT38512794",
+    "amount": -897.29
+  },
+  {
+    "date": "03/18/2019",
+    "description": "KING, BROWNING AND WARD PAYMT ZAH3683",
+    "amount": 651815.55
+  },
+  {
+    "date": "03/19/2019",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 57H179",
+    "amount": -1179.49
+  },
+  {
+    "date": "03/20/2019",
+    "description": "PETCO ANIMAL SUPPLIES WHFO0563693625159",
+    "amount": -898.69
+  },
+  {
+    "date": "03/22/2019",
+    "description": "JUSTWORKS PAYROLL WR37186",
+    "amount": -270000.0
+  },
+  {
+    "date": "03/22/2019",
+    "description": "MENARD",
+    "amount": -101.45
+  },
+  {
+    "date": "03/22/2019",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -96.68
+  },
+  {
+    "date": "03/23/2019",
+    "description": "JIMENEZ-VANG PAYMT 02654",
+    "amount": 1376153.14
+  },
+  {
+    "date": "03/26/2019",
+    "description": "MARSHALL LTD GPXU6538621",
+    "amount": 1492859.03
+  },
+  {
+    "date": "03/28/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--BTJH82058530",
+    "amount": 184674.63
+  },
+  {
+    "date": "04/01/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 43090O",
+    "amount": 591260.66
+  },
+  {
+    "date": "04/02/2019",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 11B\u2022328",
+    "amount": -1290.94
+  },
+  {
+    "date": "04/06/2019",
+    "description": "JUSTWORKS PAYROLL 441KGC",
+    "amount": -270000.0
+  },
+  {
+    "date": "04/06/2019",
+    "description": "JIMENEZ-VANG PAYMT 97265",
+    "amount": 1362856.65
+  },
+  {
+    "date": "04/07/2019",
+    "description": "PETCO ANIMAL SUPPLIES TDFW4803874360",
+    "amount": -901.08
+  },
+  {
+    "date": "04/09/2019",
+    "description": "ALEXANDER LTD JUON87638785385",
+    "amount": 143162.3235
+  },
+  {
+    "date": "04/11/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--AFJP6383132716153",
+    "amount": 193371.26
+  },
+  {
+    "date": "04/13/2019",
+    "description": "WAKEFERN 96183",
+    "amount": -1264.83
+  },
+  {
+    "date": "04/15/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 0Y55875",
+    "amount": 525720.18
+  },
+  {
+    "date": "04/20/2019",
+    "description": "JIMENEZ-VANG PAYMT 75841",
+    "amount": 1385649.62
+  },
+  {
+    "date": "04/22/2019",
+    "description": "JUSTWORKS PAYROLL G599SE",
+    "amount": -270000.0
+  },
+  {
+    "date": "04/22/2019",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -103.9
+  },
+  {
+    "date": "04/25/2019",
+    "description": "MARSHALL LTD DLXJ2976",
+    "amount": 172862.482
+  },
+  {
+    "date": "04/25/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--NSQA630",
+    "amount": 191935.62
+  },
+  {
+    "date": "04/29/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 3OS5982",
+    "amount": 667591.39
+  },
+  {
+    "date": "05/01/2019",
+    "description": "YUM! BRANDS RR98801",
+    "amount": -71.13
+  },
+  {
+    "date": "05/02/2019",
+    "description": "DOLLAR GENERAL*57532",
+    "amount": -1124.42
+  },
+  {
+    "date": "05/04/2019",
+    "description": "JIMENEZ-VANG PAYMT 91109",
+    "amount": 1394598.72
+  },
+  {
+    "date": "05/06/2019",
+    "description": "JUSTWORKS PAYROLL 996LET",
+    "amount": -270000.0
+  },
+  {
+    "date": "05/09/2019",
+    "description": "ALEXANDER LTD DEGN893",
+    "amount": 62991.422340000005
+  },
+  {
+    "date": "05/09/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--KWBY89267043",
+    "amount": 42439.6224
+  },
+  {
+    "date": "05/13/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 599953",
+    "amount": 102343.94229999998
+  },
+  {
+    "date": "05/16/2019",
+    "description": "WAKEFERN 41327",
+    "amount": -1278.06
+  },
+  {
+    "date": "05/18/2019",
+    "description": "DOLLAR GENERAL*56923",
+    "amount": -1103.68
+  },
+  {
+    "date": "05/18/2019",
+    "description": "JIMENEZ-VANG PAYMT 24494",
+    "amount": 335471.83200000005
+  },
+  {
+    "date": "05/21/2019",
+    "description": "JUSTWORKS PAYROLL 06N\u2022447",
+    "amount": -37800.0
+  },
+  {
+    "date": "05/21/2019",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -103.41
+  },
+  {
+    "date": "05/23/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--DHKD823462643",
+    "amount": 25039.377215999997
+  },
+  {
+    "date": "05/25/2019",
+    "description": "PETCO ANIMAL SUPPLIES IEDF38114594",
+    "amount": -900.7
+  },
+  {
+    "date": "05/25/2019",
+    "description": "MARSHALL LTD LQRR423179527046",
+    "amount": 74330.86726
+  },
+  {
+    "date": "05/27/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 387JVF",
+    "amount": 48101.652880999995
+  },
+  {
+    "date": "06/01/2019",
+    "description": "JIMENEZ-VANG PAYMT 24369",
+    "amount": 234830.28240000003
+  },
+  {
+    "date": "06/05/2019",
+    "description": "JUSTWORKS PAYROLL JR9622",
+    "amount": -24948.0
+  },
+  {
+    "date": "06/05/2019",
+    "description": "WAKEFERN 75458",
+    "amount": -1275.51
+  }
+]

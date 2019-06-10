@@ -12,7 +12,7 @@ This file shows how to run this python program
 - run the import.py to analyse the json file and create the sequences
 
 ###next steps
-- create a simple menu to runn the program easilyear
+- create a simple menu to run the program easily
 - create simple tests
 - create functions to search entries  based on sequences 
 ## Exercice Explanation

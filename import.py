@@ -24,11 +24,9 @@ def look_similars():
         #print("grupos", groups)
         ratio = 0
         for g in groups:
-            #print(" grupo", g)
             for tr in g:
                 print(tr.desc)
                 if SequenceMatcher(None, Trans.desc, tr.desc).ratio() >= 0.6:
-                    #print(SequenceMatcher(None, Trans.desc,  tr.desc).ratio())
                     ratio =+ 1
                     g.append(Trans)
                     break
@@ -40,6 +38,7 @@ def look_similars():
 def frequency(groups):
     """
      This part gets the groups and applies rules to detect time recurrence based on the frequency
+        margin of error can be changed here for greater or lesser accuracy
     :return:
      List with all Frequency grouped by
     """
@@ -85,7 +84,7 @@ def sequences(p_seq):
 
 def create_sequences(p_seq):
     """
-        analyzes the presequence and if it is a block with more than 4 it creates the entries on the database
+        analyzes the pre sequence and if it is a block with more than 4 it creates the entries on the database
         and appointments in the transitions also remake  if it changed
     :return:
         returns the list off sequences with all transactions changed

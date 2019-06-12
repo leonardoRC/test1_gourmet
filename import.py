@@ -55,11 +55,11 @@ def frequency(groups):
                     if distance >= -3 and distance <= 3:
                         diff = (datetime.strptime(g[0].date, '%m/%d/%Y')) - datetime.strptime(tmp[-1].date, '%m/%d/%Y')
                         if diff.days > 4:
-                            tmp.append(g.pop(0))    #that poart add in the current sequence
+                            tmp.append(g.pop(0))        #that poart add in the current sequence
                             done = True
                             break
-            if done == False:                               # because g can be poped before
-                temp.append([g.pop(0)])         # that creates a new sequence inside temporary
+            if done == False:
+                temp.append([g.pop(0)])                 # that creates a new sequence inside temporary
         p_seq.append(temp)
     print("pre sequence", p_seq)
     print("grupost", groups)
@@ -86,7 +86,6 @@ def create_sequences(p_seq):
                 for i, p in enumerate(temp):
                     p.sequence = None
                     p.save()
-    print( p_seq)
     return p_seq
 
 if __name__ == "__main__":

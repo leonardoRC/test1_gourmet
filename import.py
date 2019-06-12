@@ -49,15 +49,14 @@ def frequency(groups):
         while g:
             done = False
             for tmp in temp:
-                for tp in tmp:
-                    if g:
-                        distance = datetime.strptime(tp.date, '%m/%d/%Y').day - datetime.strptime(g[0].date, '%m/%d/%Y').day
-                        if distance >= -1 and distance <= 1:
-                            tmp.append(g.pop(0))
+                    if tmp[0] and g:
+                        distance = datetime.strptime(tmp[0].date, '%m/%d/%Y').day - datetime.strptime(g[0].date, '%m/%d/%Y').day
+                        if distance >= -3 and distance <= 3:
+                            tmp.append(g.pop(0))    #that poart add in the current sequence
                             done = True
             if done == False:
                 if g:                               # because g can be poped before
-                    temp.append([g.pop(0)])
+                    temp.append([g.pop(0)])         # that creates a new sequence inside temporary
         p_seq.append(temp)
     return p_seq
 

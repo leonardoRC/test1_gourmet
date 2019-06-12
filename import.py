@@ -47,20 +47,19 @@ def frequency(groups):
     for e,g in enumerate(groups):
         #grupos aqui
         temp = []
-        for i,tr in enumerate(g):
+        while g:
             done = False
-            print(tr) #transactions
             for tmp in temp:
                 if tmp[0]:
-                    distance = datetime.strptime(tmp[0].date, '%m/%d/%Y').day - datetime.strptime(tr.date, '%m/%d/%Y').day
+                    distance = datetime.strptime(tmp[0].date, '%m/%d/%Y').day - datetime.strptime(g[0].date, '%m/%d/%Y').day
                     if distance >= -3 and distance <= 3:
-                        diff = (datetime.strptime(tr.date, '%m/%d/%Y')) - datetime.strptime(tmp[-1].date, '%m/%d/%Y')
+                        diff = (datetime.strptime(g[0].date, '%m/%d/%Y')) - datetime.strptime(tmp[-1].date, '%m/%d/%Y')
                         if diff.days > 4:
-                            tmp.append(g.pop(i))    #that poart add in the current sequence
+                            tmp.append(g.pop(0))    #that poart add in the current sequence
                             done = True
                             break
             if done == False:                               # because g can be poped before
-                temp.append([g.pop(i)])         # that creates a new sequence inside temporary
+                temp.append([g.pop(0)])         # that creates a new sequence inside temporary
         p_seq.append(temp)
     print("pre sequence", p_seq)
     print("grupost", groups)

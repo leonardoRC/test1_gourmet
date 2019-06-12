@@ -44,52 +44,27 @@ def frequency(groups):
     """
 
     p_seq = []
-    for e, g in enumerate(groups):
+    for e,g in enumerate(groups):
+        #grupos aqui
         temp = []
-        while g:
+        for i,tr in enumerate(g):
             done = False
+            print(tr) #transactions
             for tmp in temp:
-                for t in tmp:
-                    if t[0] and g:
-                        distance = datetime.strptime(t[0].date, '%m/%d/%Y').day - datetime.strptime(g[0].date, '%m/%d/%Y').day
-                        print("datas " ,datetime.strptime(t[0].date, '%m/%d/%Y').day,datetime.strptime(g[0].date, '%m/%d/%Y').day, "distance" , distance)
-                        if distance >= -3 and distance <= 3:
-                            print("entrou!!!!!!!!!!!")
-                            diff = (datetime.strptime(g[0].date, '%m/%d/%Y')) - datetime.strptime(t[-1].date, '%m/%d/%Y')
-                            if diff.days > 4:
-                                print("previous:" , datetime.strptime(t[-1].date,'%m/%d/%Y'), "current:", datetime.strptime(g[0].date, '%m/%d/%Y'), "period", diff)
-                                t.append(g.pop(0))    #that poart add in the current sequence
-                                done = True
-                            else:
-                                temp.append([[g.pop(0)]])    #that poart add in the current block of sequence
-                                done = True
-            if done == False:
-                if g:                               # because g can be poped before
-                    temp.append([[g.pop(0)]])         # that creates a new sequence inside temporary
+                if tmp[0]:
+                    distance = datetime.strptime(tmp[0].date, '%m/%d/%Y').day - datetime.strptime(tr.date, '%m/%d/%Y').day
+                    if distance >= -3 and distance <= 3:
+                        diff = (datetime.strptime(tr.date, '%m/%d/%Y')) - datetime.strptime(tmp[-1].date, '%m/%d/%Y')
+                        if diff.days > 4:
+                            tmp.append(g.pop(i))    #that poart add in the current sequence
+                            done = True
+                            break
+            if done == False:                               # because g can be poped before
+                temp.append([g.pop(i)])         # that creates a new sequence inside temporary
         p_seq.append(temp)
-        print(p_seq)
+    print("pre sequence", p_seq)
+    print("grupost", groups)
     return p_seq
-
-# def sequences(p_seq):
-#     """
-#         mounting sequences following the rules
-#         All transactions in a set must be at least 4 days apart from each other.
-#     :return:
-#         returns a list of pre sequences filtered by rules in a list
-#     """
-#     for pre in p_seq:
-#         for pr in pre:
-#                 for i, p in enumerate(pr):
-#                     if i == 0:
-#                         pass
-#                     else:
-#                         diff = (datetime.strptime(p.date, '%m/%d/%Y')) - datetime.strptime(pr[i-1].date, '%m/%d/%Y')
-#                         if diff.days > 4:
-#                             print("previous:" , datetime.strptime(pr[i-1].date,'%m/%d/%Y'), "current:", datetime.strptime(p.date, '%m/%d/%Y'), "period", diff)
-#                         else:
-#                             del pr[i]
-#     print(" pre sequence", p_seq)
-#     return p_seq
 
 def create_sequences(p_seq):
     """
@@ -100,23 +75,19 @@ def create_sequences(p_seq):
     """
     for pre in p_seq:
         for temp in pre:
-            for tmp in temp:
-                if len(tmp) >= 4:
-                    for i, p in enumerate(tmp):
-                        if i == 0:
-                            seq, created = Sequences.get_or_create(desc = p.desc, defaults={'pub': datetime.now()})
-                            p.sequence = seq
-                            p.save()
-                            print(p.desc, p.date, p.sequence)
-                        else:
-                            p.sequence = seq
-                            p.save()
-                            print(p.desc, p.date, p.sequence)
-                else:
-                    print("\n\nSequence out", tmp)
-                    for i, p in enumerate(tmp):
-                        p.sequence = None
+            if len(temp) >= 4:
+                seq = Sequences.create(desc = temp[0].desc, pub = datetime.now())
+                seq.save()
+                for i, p in enumerate(temp):
+                        p.sequence = seq
                         p.save()
+                        print(p.desc, p.date, p.sequence)
+            else:
+                print("\n\nSequence out", temp)
+                for i, p in enumerate(temp):
+                    p.sequence = None
+                    p.save()
+    print( p_seq)
     return p_seq
 
 if __name__ == "__main__":
@@ -127,5 +98,4 @@ if __name__ == "__main__":
     import_json()
     groups = look_similars()
     p_seq = frequency(groups)
-    #p_seq = sequences(p_seq)
     p_seq = create_sequences(p_seq)
